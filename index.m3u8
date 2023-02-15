@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:121950
+#EXT-X-TARGETDURATION:4
+#EXT-X-PROGRAM-DATE-TIME:2023-02-14T19:15:12+00:00
+#EXTINF:4.000,
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
