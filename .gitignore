@@ -985,20 +985,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 
--------SPORTS-------
+-------SPORTS SUKAN -------
 
 EXTINF:-1 group-title="Sports" group-logo="https://www.dropbox.com/s/dgyajubrmwl6tzs/1683034894502.png?dl=1"
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_f1_2_web.png",Sky Sports F1
+#EXTINF:-1 tvg-id="" group-title="Sports" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_f1_2_web.png",Sky Sports F1
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/3e747b7c-7ee4-556e-b21f-af1c9c44375e/logo.png",Sky Sports MAIN EVENT
+#EXTINF:-1 tvg-id="" group-title="Sports" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/3e747b7c-7ee4-556e-b21f-af1c9c44375e/logo.png",Sky Sports MAIN EVENT
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/b7a17396-ed24-57fa-8070-1189ba659ab5/logo.png",Sky Sports Premier League
+#EXTINF:-1 tvg-id="" group-title="Sports" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/b7a17396-ed24-57fa-8070-1189ba659ab5/logo.png",Sky Sports Premier League
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/sspl.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/d6386094-d216-5906-a4f1-fcc0090abb82/logo.png",Sky Sports Football
+#EXTINF:-1 tvg-id="" group-title="Sports" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/d6386094-d216-5906-a4f1-fcc0090abb82/logo.png",Sky Sports Football
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssfb.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport"group-title="Sports" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports", Astro Supersport
