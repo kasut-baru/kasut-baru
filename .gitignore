@@ -407,13 +407,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 ---------------- End of 795 796 797 --------------
 
-#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT! Wrestling
+EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="UnifiSport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848",Unifi Sports 1
+EXTINF:-1 group-title="Sports" tvg-id="UnifiSport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="Sports",UFC
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="Sports",UFC
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 
 ----------------------------
