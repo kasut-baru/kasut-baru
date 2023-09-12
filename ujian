@@ -1,7 +1,1 @@
-#EXTINF:-1 tvg-id="104" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (Backup)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFI"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
-https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+walaun
