@@ -2,13 +2,13 @@
 #EXT-X-VERSION:3
 #EXT-X-MDSTRM-CDN-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=655600,RESOLUTION=426x240,CODECS="avc1.42001e,mp4a.40.2"
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b654000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b346000_slENG.m3u8?id=5
 #EXT-X-STREAM-INF:BANDWIDTH=1205600,RESOLUTION=640x360,CODECS="avc1.42001e,mp4a.40.2"
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1040000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b596000_slENG.m3u8?id=5
 #EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=854x480,CODECS="avc1.42001e,mp4a.40.2"
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1296000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b796000_slENG.m3u8?id=5
 #EXT-X-STREAM-INF:BANDWIDTH=2890800,RESOLUTION=1280x720,CODECS="avc1.42001e,mp4a.40.2"
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2496000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
 #EXT-X-STREAM-INF:BANDWIDTH=5640800,RESOLUTION=1920x1080,CODECS="avc1.42001e,mp4a.40.2"
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
