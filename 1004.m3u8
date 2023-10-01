@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MDSTRM-CDN-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=5640800,RESOLUTION=1920x1080,CODECS="avc1.42001e,mp4a.40.2"
 https://linears-playback.astro.com.my/vsg/41QHr9S-44dsgjZYB2C9PdVl1AvbaXcxrAC6NXeYdkIMU=Yc5p/dash-wv/jitp-linearwm/1004/default_primary.mpd
